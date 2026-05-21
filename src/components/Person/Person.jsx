@@ -19,5 +19,3 @@ export const Person = ({ person }) => {
     </div>
   );
 };
-
-export default Person;
